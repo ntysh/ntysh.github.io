@@ -1,0 +1,6 @@
+model_checkpoint_path: "folder_with_my_custom_data-11000"
+all_model_checkpoint_paths: "folder_with_my_custom_data-7000"
+all_model_checkpoint_paths: "folder_with_my_custom_data-8000"
+all_model_checkpoint_paths: "folder_with_my_custom_data-9000"
+all_model_checkpoint_paths: "folder_with_my_custom_data-10000"
+all_model_checkpoint_paths: "folder_with_my_custom_data-11000"
